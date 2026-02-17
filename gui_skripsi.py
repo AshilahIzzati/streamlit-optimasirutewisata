@@ -15,7 +15,6 @@ from folium.plugins import MarkerCluster, PolyLineTextPath
 # ======================================================
 st.set_page_config(
     page_title="Optimasi Rute Wisata",
-    page_icon=r"C:\Users\Ashilah\OneDrive\Dokumen\Dokumen Ashilah\Per undip an\Universitas-Diponegoro-Semarang-Logo.png",
     layout="wide"
 )
 
